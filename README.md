@@ -8,4 +8,4 @@ Inspired by the Cyan Light Theme from IntelliJ CLion.
 
 ## Screenshots
 
-![cpp](https://raw.githubusercontent.com/listenerri/vscode-gray-light-theme/refs/heads/main/screenshots/cpp.png)
+![cpp](./screenshots/cpp.png)
