@@ -1,0 +1,21 @@
+{
+  "name": "vscode-gray-light-theme",
+  "displayName": "Gray Light Theme",
+  "description": "Gray Light Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gray Light",
+        "uiTheme": "vs",
+        "path": "./themes/gray-light-color-theme.json"
+      }
+    ]
+  }
+}
