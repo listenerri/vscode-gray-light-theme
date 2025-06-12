@@ -18,6 +18,6 @@
       }
     ]
   },
-  "repository": {"url": "https://github.com/listenerri/vscode-gray-light-theme.git"},
+  "repository": {"url": "https://github.com/listenerri/vscode-gray-light-theme"},
   "publisher": "listenerri"
 }
