@@ -49,8 +49,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				// "fontStyle": "italic",
-				"foreground": "#AAAAAA"
+				"foreground": "#999999"
 			}
 		},
 		{
@@ -58,7 +57,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#AAAAAA"
+				"foreground": "#999999"
 			}
 		},
 		{
@@ -92,8 +91,7 @@
 				"storage"
 			],
 			"settings": {
-				// "foreground": "#4B83CD"
-				"foreground": "#0000D0"
+				"foreground": "#0000A0"
 			}
 		},
 		{
@@ -103,8 +101,7 @@
 				"support.type"
 			],
 			"settings": {
-				// "foreground": "#7A3E9D"
-				"foreground": "#0000D0"
+				"foreground": "#0000A0"
 			}
 		},
 		{
@@ -135,7 +132,6 @@
 				"support.function"
 			],
 			"settings": {
-				// "fontStyle": "bold",
 				// "foreground": "#AA3731"
 			}
 		},
@@ -148,8 +144,7 @@
 				"support.class"
 			],
 			"settings": {
-				// "fontStyle": "bold",
-				"foreground": "#7A3E9D"
+				"foreground": "#008080"
 			}
 		},
 		{
@@ -175,7 +170,6 @@
 				"keyword.other.unit"
 			],
 			"settings": {
-				// "foreground": "#AB6526"
 				"foreground": "#4B83CD"
 			}
 		},
@@ -211,7 +205,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#777777"
+				// "foreground": "#777777"
 			}
 		},
 		{
@@ -450,5 +444,23 @@
 				"foreground": "#434343"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"namespace": "#008080",
+		"class": "#008080",
+		"enum": "#008080",
+		"interface": "#008080",
+		"struct": "#008080",
+		"typeParameter": "#008080",
+		"type": "#008080",
+		"property": "#880099",
+		"enumMember": "#880099",
+		"macro": "#1F542E",
+		"comment": "#999999",
+		"string": "#448C27",
+		"keyword": "#0000A0",
+		"number": "#4B83CD",
+		"*.static": "#880099",
+	}
 }
