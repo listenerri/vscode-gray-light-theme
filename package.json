@@ -3,7 +3,6 @@
   "displayName": "Gray Light Theme",
   "description": "Gray Light Theme",
   "version": "1.0.0",
-  "repository": {"url": "https://github.com/listenerri/vscode-gray-light-theme.git"},
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -18,5 +17,7 @@
         "path": "./themes/gray-light-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {"url": "https://github.com/listenerri/vscode-gray-light-theme.git"},
+  "publisher": "listenerri"
 }
