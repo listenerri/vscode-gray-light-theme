@@ -6,6 +6,7 @@
 		"dropdown.background": "#E4E6EB",
 
 		"input.background": "#F2F3F7",
+		"input.border": "#D0D3D9",
 
 		"list.hoverBackground": "#D0D3D9",
 		"list.inactiveSelectionBackground": "#D0D3D9",

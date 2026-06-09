@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.0.2
+
+- Add input border color
+
 ## v1.0.1
 
 - Fix images not shown in vsc marketplace 
